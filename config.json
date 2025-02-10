@@ -1,0 +1,9 @@
+{
+  "config":{
+    "slack_api_key":"",
+    "slack_channel_name":"",
+    "slack_bot_name":"",
+    "update_frequency":90,
+    
+  }
+}
